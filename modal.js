@@ -237,6 +237,11 @@
 
   // these following methods are used to handle overflowing modals
 
+  // nonsense shitss
+  $('.modal-backdrop').remove();
+  //done
+  
+  
   Modal.prototype.handleUpdate = function () {
     this.adjustDialog()
   }

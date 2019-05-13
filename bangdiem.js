@@ -1,9 +1,13 @@
+//Bộ mã Javascript lưu trữ bảng điểm và thông tin học sinh
+//Dành riêng cho trang web https://c4k60.ga/
+//Được lập trình bởi Dương Tùng Anh
+//Thông tin chi tiết xin liên hệ: https://www.facebook/com/tunna.duong/
 var user;
 var m = (&#39;Nam&#39;)
 var fm = (&#39;Nữ&#39;)
 var race_default = (&#39;Kinh&#39;)
 function pos(number){
-//thông i học sinh
+//thông tin học sinh
     if (number == &quot;1&quot;) {
     user = (&#39;Dương Huyền Anh&#39;)
     gender = fm
